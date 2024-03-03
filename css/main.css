@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap')
-
+@import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
 
 
 body{
@@ -35,36 +34,24 @@ body{
 
 /*----текст----------------------------------------------------------------------------*/
 h1{
-<<<<<<< HEAD
     -webkit-text-stroke: 1.5px black;
     font-family: "Single Day", cursive;
-=======
-    font-family: "Madimi One", sans-serif;
->>>>>>> 569ac33e7b274cc877f955a1b600bba48ba88785
     font-size: 4rem;
     margin: 1rem;
     color: rgb(255, 17, 124);
     text-align: center;
 }
 h2{
-<<<<<<< HEAD
     -webkit-text-stroke: 1.5px black;
     font-family: "Single Day", cursive;
-=======
-    font-family: "Madimi One", sans-serif;
->>>>>>> 569ac33e7b274cc877f955a1b600bba48ba88785
     font-size: 3rem;
     margin: 1rem;
     color: rgb(255, 17, 124);
     text-align: center;
 }
 p{
-<<<<<<< HEAD
     -webkit-text-stroke: 1.5px black;
     font-family: "Single Day", cursive;
-=======
-    font-family: "Madimi One", sans-serif;
->>>>>>> 569ac33e7b274cc877f955a1b600bba48ba88785
     font-size: 2rem;
     margin: 1rem;
     color: rgb(255, 17, 124);
@@ -74,7 +61,7 @@ p{
 
 /*----кнопки---------------------------------------------------------------------------*/
 .btn{
-    font-family: "Madimi One", sans-serif;
+    font-family: "Single Day", cursive;
     width: 100px;
     background-color: rgb(255, 17, 124);
     border: none;
@@ -98,11 +85,9 @@ p{
 
 @media screen and (max-width: 540px) {
     .img{
-        
         width: 14rem;
     }
     h1{
-<<<<<<< HEAD
         font-size: 2.5rem;
     }
     h2{
@@ -112,18 +97,6 @@ p{
     p{
         -webkit-text-stroke: 1.2px black;
         font-size: 2rem;
-=======
-        font-family: "Madimi One", sans-serif;
-        font-size: 2rem;
-    }
-    h2{
-        font-family: "Madimi One", sans-serif;
-        font-size: 1rem;
-    }
-    p{
-        font-family: "Madimi One", sans-serif;
-        font-size: 1rem;
->>>>>>> 569ac33e7b274cc877f955a1b600bba48ba88785
         width: 20rem;
     }
 }
