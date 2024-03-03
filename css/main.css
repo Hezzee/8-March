@@ -82,15 +82,19 @@ p{
 
 @media screen and (max-width: 540px) {
     .img{
+        
         width: 14rem;
     }
     h1{
+        font-family: "Madimi One", sans-serif;
         font-size: 2rem;
     }
     h2{
+        font-family: "Madimi One", sans-serif;
         font-size: 1rem;
     }
     p{
+        font-family: "Madimi One", sans-serif;
         font-size: 1rem;
         width: 20rem;
     }
