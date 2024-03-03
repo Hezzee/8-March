@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap')
+
 
 
 body{
@@ -33,21 +34,21 @@ body{
 
 /*----текст----------------------------------------------------------------------------*/
 h1{
-    font-family: "Single Day", cursive;
+    font-family: "Madimi One", sans-serif;
     font-size: 4rem;
     margin: 1rem;
     color: rgb(255, 17, 124);
     text-align: center;
 }
 h2{
-    font-family: "Single Day", cursive;
+    font-family: "Madimi One", sans-serif;
     font-size: 3rem;
     margin: 1rem;
     color: rgb(255, 17, 124);
     text-align: center;
 }
 p{
-    font-family: "Single Day", cursive;
+    font-family: "Madimi One", sans-serif;
     font-size: 2rem;
     margin: 1rem;
     color: rgb(255, 17, 124);
@@ -57,7 +58,7 @@ p{
 
 /*----кнопки---------------------------------------------------------------------------*/
 .btn{
-    font-family: "Single Day", cursive;
+    font-family: "Madimi One", sans-serif;
     width: 100px;
     height: 40px;
     background-color: rgb(255, 17, 124);
